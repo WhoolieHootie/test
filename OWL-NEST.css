@@ -1,0 +1,60 @@
+ .u-section-1 {
+  background-image: url("https://aloycwl.github.io/omg_frontend/whcc/img/owlnest1.webp");
+  background-position: 50% 50%;
+  min-height: 583px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 481px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 368px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 276px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 208px;
+  }
+} .u-section-2 {
+  background-image: url("https://aloycwl.github.io/omg_frontend/whcc/img/owlnest2.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 591px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 487px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 373px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 176px;
+  }
+}
